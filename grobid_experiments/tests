@@ -1,0 +1,14 @@
+
+# on  Grobid 
+
+the processing of references is done with GROBID 
+
+[Grobid documentation] (https://grobid.readthedocs.io/en/latest/)
+
+[Grobid github repo] (https://github.com/kermitt2/grobid)
+
+
+
+## issues 
+
+- In processing references, I observed that Grobid seems to skip some pages arbitrary 
